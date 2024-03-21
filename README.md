@@ -1,4 +1,38 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Welcome To MoodToons
+
+This App will allow users to selected a color, which will represent a mood. The mood that corresponds to the following color are as follows:
+
+- Red: Passion, energy, love, anger, excitement.
+- Orange: Creativity, enthusiasm, warmth, determination.
+- Yellow: Happiness, optimism, energy, intellect, caution.
+- Green: Nature, growth, harmony, renewal, balance.
+- Blue: Calmness, serenity, trust, stability, intelligence.
+- Purple: Royalty, luxury, spirituality, mystery, ambition.
+- Pink: Romance, sweetness, nurturing, sensitivity.
+- Black: Sophistication, elegance, power, mystery, sadness (in some contexts).
+- White: Purity, innocence, cleanliness, simplicity, peace.
+- Gray: Neutrality, formality, professionalism, practicality.
+- Brown: Earthiness, stability, warmth, reliability.
+- Gold: Wealth, success, luxury, prestige.
+- Silver: Modernity, sleekness, sophistication, innovation.
+
+
+Once the user selects the color, the user will then select a genre of music. Music will then be played that fit that genre and mood. The user will not be able to select what song they want to play, just the genre and the mood. The user however will be able to select the decade of music they want to listen to and it will filter out music that is not from that decade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
@@ -76,4 +110,4 @@ To learn more about React Native, take a look at the following resources:
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native. -->
