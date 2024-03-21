@@ -19,6 +19,29 @@ This App will allow users to selected a color, which will represent a mood. The 
 
 Once the user selects the color, the user will then select a genre of music. Music will then be played that fit that genre and mood. The user will not be able to select what song they want to play, just the genre and the mood. The user however will be able to select the decade of music they want to listen to and it will filter out music that is not from that decade.
 
+## Potential APIs for Music
+
+- Deezer
+- Youtube
+- Spotify
+- Soundcloud
+- Jamendo
+- Free Music Achive
+
+## Potential APIs for Lyrics
+
+- Genius 
+- MusixMatch
+- LyricsOvh
+- Chart Lyrics
+
+## How will songs be interpreted
+
+- Will Use Open Api to analyze lyric of the songs and based on the perameters I set will determine the color of the song
+
+
+
+
 
 
 
