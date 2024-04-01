@@ -23,7 +23,7 @@ Once the user selects the color, the user will then select a genre of music. Mus
 
 - Deezer
 - Youtube
-- Spotify
+- [Spotify](https://github.com/spotify/ios-sdk)
 - Soundcloud
 - Jamendo
 - Free Music Achive
